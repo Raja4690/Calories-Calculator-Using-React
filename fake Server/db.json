@@ -1,0 +1,32 @@
+{
+  "WorkOut": [
+    {
+      "Title": "Running",
+      "CBurn": "180",
+      "id": 1,
+      "StartTime": "2022-11-04T10:00:45.493Z",
+      "EndTime": "2022-11-04T10:00:50.910Z",
+      "TotalCalories": 2273.892,
+      "endTime": "2022-11-04T10:13:23.457Z"
+    },
+    {
+      "Title": "Swimming ",
+      "CBurn": "190",
+      "id": 2,
+      "StartTime": "2022-11-04T10:05:09.535Z",
+      "EndTime": "2022-11-04T10:05:13.975Z",
+      "TotalCalories": 1485.268,
+      "endTime": "2022-11-04T10:12:58.567Z"
+    },
+    {
+      "Title": "Yoga",
+      "CBurn": "130",
+      "id": 3,
+      "StartTime": "2022-11-04T10:09:45.413Z",
+      "EndTime": "2022-11-04T10:09:48.014Z",
+      "TotalCalories": 300.86766666666665,
+      "startTime": "2022-11-04T10:12:01.770Z",
+      "endTime": "2022-11-04T10:12:04.275Z"
+    }
+  ]
+}
